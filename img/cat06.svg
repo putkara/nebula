@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="cat06.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.63446243"
+     inkscape:cx="200.95752"
+     inkscape:cy="479.93385"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff2a2a;stroke-width:7.765;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path39308"
+       cx="94.863007"
+       cy="104.88625"
+       rx="52.632408"
+       ry="51.765774" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff2a2a;stroke-width:9.76501;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect39332"
+       width="66.353775"
+       height="82.7052"
+       x="24.25429"
+       y="82.646591" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff2a2a;stroke-width:12.765;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect39334"
+       width="145.67117"
+       height="81.027313"
+       x="44.147556"
+       y="98.671906" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#ff2a2a;stroke-width:3.86501;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path39872"
+       cx="150.4082"
+       cy="133.23753"
+       rx="21.350813"
+       ry="21.506289" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#ff2a2a;stroke-width:6.865;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect40110"
+       width="73.21167"
+       height="85.827042"
+       x="35.815052"
+       y="118.54376" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#ff2a2a;stroke-width:12.765;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect40214"
+       width="32.668541"
+       height="54.061295"
+       x="55.587318"
+       y="137.27205" />
+    <ellipse
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#ff2a2a;stroke-width:12.765;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path40238"
+       cx="150.65759"
+       cy="133.08682"
+       rx="9.5215588"
+       ry="9.916028" />
+  </g>
+</svg>
